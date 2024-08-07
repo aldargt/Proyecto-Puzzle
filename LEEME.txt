@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+ ESTUDIANTES: RONNY ALDAIR HUARACHI CHURATA
+ 
+ GRUPO: NUMERO 17
+ 
+ TEMA: PROYECTO FINAL PUZZLE
+
+ MATERIA: METODOS TECNICAS Y TALLER DE PROGRAMACION
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  INSTRUCCIONES:
+
+  El driver para manipular la conexion de la base de datos esta dentro del archivo rar. Su nombre es "mysql-connector-java-5.1.18-bin".
+
+  Para poder ejecutar una imagen para el juego puzzle, una manera sencilla es tener una imagen en los documentos de nuestro ordenador.
+  Con extensiones tipo imagen como .jpg , .png , etc.
+
+  Existe una imagen de ejemplo dentro del proyecto:  ImagenDeEjemplo.jpg
+  Para ejecutarlo solo es necesario dirigirse al proyecto y ejecutar la imagen de ejemplo.
